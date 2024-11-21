@@ -1,1 +1,1 @@
-# zarifjergashev.github.io
+# zarifergashev.github.io
