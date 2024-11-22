@@ -1,0 +1,68 @@
+CONTACT INFORMATION
+Name: Ergashev Zarifjon
+Role: Software Engineer (Android/Flutter)
+Phone: (+998) 91-569-05-68
+Email: zarifergashev4@gmail.com
+GitHub: [https://github.com/zarifergashev]
+LinkedIn: [https://www.linkedin.com/in/zarif-ergashev-9028351a3/]
+
+EDUCATION
+Tashkent University of Information Technology, Tashkent, Uzbekistan
+Degree: Bachelor
+Years: 2015 - 2019
+
+SKILLS
+- Flutter Development
+- Android Development
+- Team Leadership
+- Git and GitHub
+- SQL
+
+EXPERIENCE
+Company: Green White Solution[https://play.google.com/store/apps/dev?id=6477432943381744081]
+Role: Mobile Team Lead
+Duration: April 2019 - Present
+Responsibilities:
+- Develop an ERP app named "Smartup 5x ERP"[https://play.google.com/store/apps/details?id=uz.greenwhite.smartup5x_trade] from scratch using Flutter.
+- Plan and manage mobile team tasks.
+- Lead the team in supporting and adding new features to the project.
+- Utilize custom design patterns for Flutter and an SQL table generation plugin.
+- Implement background tracking and data transmission when the network is available.
+- Write unit tests for the application.
+- Create an info app named UzPhramInfo[https://play.google.com/store/apps/details?id=uz.greenwhite.darmon] from zero on Flutter and support this app.
+- Build several libraries for decreasing development time, such as Dialogs, Utils, and Data Types.
+- Support several apps (Smartup 5, Smartup 5 Store) by adding features, new modules, and bug fixes.
+- Added notification part to Verifix app.
+- Responsible for merge git pull requests on Smartup 5x ERP
+project
+- Add github action to several projects and save 90% of deployment
+time
+- Made interviews with up to 5 candidates  
+
+Company: VWSAVDO
+Role: Part-time Software Engineer
+Responsibilities:
+- Build app from 0 to 1 by myself on android native, then i have
+written on flutter
+- App is an online shopping app. Users can show goods and book.
+Users can show their own deals statuses. Migrated another
+system(id.gov.uz).
+
+
+Company: Fursat[https://play.google.com/store/apps/details?id=uz.fursatloyiha.fursat_app]
+Role: Part time Android Engineer
+Duration: July 2021 - August 2021
+Responsibilities:
+- Build an app from 0 to 1 by myself.
+- App is simple. For fill form and send to server and show statuses
+
+Company: SubGame[https://play.google.com/store/apps/details?id=com.sablab.domvet]
+Role: Part time Android Engineer
+Duration: May 2020 - August 2020
+Responsibilities:
+- Build app from 0 by myself
+- Payment system
+- Push notification
+
+ACHIEVEMENTS
+- Oracle Certified Professional: Java SE 11 Developer[https://catalog-education.oracle.com/pls/certview/sharebadge?id=9A8AA220E5104826FAD0261D33CA8C7D913AB5DAFCAB7BC92FDFADE586969B49]
